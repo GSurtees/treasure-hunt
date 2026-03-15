@@ -8,6 +8,8 @@ First, create two variables. Go to ``||variables:Variables||`` and click ``Make 
 ## Step 2 - Set up the compass
 Go to ``||input:Input||``, click **More** and add a ``||input:calibrate compass||`` block inside ``||basic:on start||``.
 ```blocks
+let heading = 0
+let found = false
 input.calibrateCompass()
 ```
 
