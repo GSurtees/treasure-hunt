@@ -13,8 +13,7 @@ Go to the ``||variables:Variables||`` category and click on ``Make a variable...
 
 Set the heading to 0.
 
-Go to the ``||input:||`` category, click ``||more||`` and snap the ``||input.calibrateCompass()||`` block into the ``||basic:onstart||`` block.
-
+Open the ``||input:Input||`` category, click ``||input:Input:more||`` and snap the ``||input:calibrateCompass()||`` block into the ``||basic:on start||`` block.
 ```blocks
 input.calibrateCompass()
 let heading = randint(1, 360)
