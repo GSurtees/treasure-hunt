@@ -17,7 +17,7 @@ Go to the ``||input||`` category, click ``||more||`` and snap the ``||input.cali
 let heading = randint(1,360)
 
 Congratulations, you did it!
-=======
+
 # My Tutorial
 ## Step 1 - Make two variables
 Today we are going to explore how WHILE loops work. To do this, we will create a compass that leads the user to a secret hidden treasure.
