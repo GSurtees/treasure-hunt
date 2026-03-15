@@ -16,4 +16,4 @@ Go to the ``||input||`` category, click ``||more||`` and snap the ``||input.cali
 
 let heading = randint(1,360)
 
-Congratulations, you did it!
+Congratulations, you did it! :)
